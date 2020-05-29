@@ -171,6 +171,8 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+.idea/
+*.iml
 
 # Windows shortcuts
 *.lnk
